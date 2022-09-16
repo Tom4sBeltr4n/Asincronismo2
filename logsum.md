@@ -22,6 +22,17 @@ The way the JSRE works is that if it finds something that it piles tasks into th
 In addition to these elements, we can also find the Micro-Task Queue. Here is where promises are executed. Likewise, the JS Environment includes APIs (Application Program Interface). These allow JS to interact with other programs, which can extend JS' functionality. 
 
 
+## Class 6
+(NO LOG IN PREVIOUS CLASSES)
+
+Callbacks are functions (we'll call it foo for this explanation) we pass as arguments to another function (we'll call it bar for this explanation). When bar executes after being called, it will apply or call foo as part of its mechanics or even as its return argument. It's important to write both the parametre and the argument with no following brackets "()", as this will cause the argument or parametre to be the result of calling the function instead of the function itself
+
+
+
+# Curiosities
+- The setTimeout function can receive a callback (foo) as argument before the timeout and include any arguments needed by foo as the third and following parametres of setTimeout
+
+
 
 # Glossary:
 - Asynchronous: multiple things ocurring at the same time
