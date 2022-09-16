@@ -1,4 +1,10 @@
 (remember to read "repoinfo.txt" before working on this)
+- [Class logs](#class-logs)
+  - [Class 2](#class-2)
+  - [Class 3](#class-3)
+  - [Class 6](#class-6)
+- [Curiosities](#curiosities)
+- [Glossary:](#glossary)
 # Class logs
 ## Class 2
 By itself, a given programming language is synchronous, i. e: every task must be developed at a given time and no other task can be developed at the same time. However, as technology evolved, concepts and resources were added. Some of these additions allow programmers to write programs which can work asynchronously. Among the languages which can be executed asynchronously we can find JavaScript. 
